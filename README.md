@@ -9,9 +9,9 @@ and I'm currently <i>bringing <b>AI agents</b> into how CRM work gets designed, 
 
 ---
 
-## 🛠️ What I Work With
+## What I Work With
 
-### 🔷 *Dynamics 365 & Power Platform*
+### *Dynamics 365 & Power Platform*
 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-Sales_%7C_Customer_Service-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -24,7 +24,7 @@ and I'm currently <i>bringing <b>AI agents</b> into how CRM work gets designed, 
 - **Dataverse** · **Model-driven apps** · **Canvas apps**
 - **Power Pages** · **Power Automate**
 
-### 💻 *Development*
+### *Development*
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
