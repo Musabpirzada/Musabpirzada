@@ -1,51 +1,38 @@
-- 👋 Hi, I’m @Musabpirzada
-- 👀 I’m interested in exploring new technologies.
-- 🌱 I’m currently learning what I want.
-- 💞️ I’m looking to collaborate on any technology.
-- 📫 How to reach me musabpir2002@gmail.com
+<h1 align="center">Hi, I'm Musab 👋</h1>
 
-<h2 align="left">Hi 👋! My name is Musab and I'm a Student, from Lahore, Pakistan.</h2>
+<h3 align="center">⚡ <b>Dynamics 365 CE</b> & <b>Power Platform</b> Consultant ⚡</h3>
 
-###
+<p align="center">
+I build <b>business apps on Microsoft Dataverse</b>, from <b>model-driven CRM implementations</b> to <b>Power Pages portals</b> and <b>automation</b>,<br>
+and I'm currently <i>bringing <b>AI agents</b> into how CRM work gets designed, built, and delivered.</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musabpirzada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Musabpirzada&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Musabpirzada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🛠️ What I Work With
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+### 🔷 *Dynamics 365 & Power Platform*
 
-###
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-Sales_%7C_Customer_Service-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=for-the-badge&logo=microsoft&logoColor=white)
+![Model-driven Apps](https://img.shields.io/badge/Model--driven_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Canvas Apps](https://img.shields.io/badge/Canvas_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power_Pages-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-<div align="left">
-  <a href="musabpir2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/syedmusabpirzada/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/syedmusabpirzada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://medium.com/@musabpirzada1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/s_musabpirzada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+- **Dynamics 365** — *Sales / Customer Service*
+- **Dataverse** · **Model-driven apps** · **Canvas apps**
+- **Power Pages** · **Power Automate**
 
-###
+### 💻 *Development*
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API_&_Integrations-2E2E2E?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **C#** — *plugins, custom workflow activities*
+- **JavaScript / TypeScript** — *form scripts, web resources*
+- **Web API** & *integrations*
+- **Python**
